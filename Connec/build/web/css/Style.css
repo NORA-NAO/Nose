@@ -1,0 +1,102 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/05/2020, 08:10:18 PM
+    Author     : Eda
+*/
+
+*{
+	text-align: center;
+	padding: 0;
+	 
+}
+.uno{
+
+	
+	margin: 2rem;
+	background-color: #91AA9D ;
+	position: absolute;
+		/*nos posicionamos en el centro del navegador*/
+		top:50%;
+		left:50%;
+		width:400px;
+		/*la mitad del width*/
+		margin-left:-200px;
+		height: 300px;
+		margin-top: -150px;
+		border-radius:5px;
+
+}
+
+.dos{
+
+	
+	margin: 2rem;
+	background-color: #F2C641 ;
+	position: absolute;
+		/*nos posicionamos en el centro del navegador*/
+		top:50%;
+		left:50%;
+		width:400px;
+		/*la mitad del width*/
+		margin-left:-200px;
+		height: 300px;
+		margin-top: -150px;
+		border-radius:5px;
+
+}
+
+.tres{
+
+	
+	margin: 2rem;
+	background-color: #628C23 ;
+	position: absolute;
+		/*nos posicionamos en el centro del navegador*/
+		top:50%;
+		left:50%;
+		width:400px;
+		/*la mitad del width*/
+		margin-left:-200px;
+		height: 300px;
+		margin-top: -150px;
+		border-radius:5px;
+
+}
+
+
+.boton{
+	 padding: 10px 15px;
+	 border-radius: 5px;
+	 background-color: #BF2431;
+	 color:white;
+}
+
+.boton:hover{
+	background-color: #F24949;
+}
+.boton2{
+	 padding: 10px 15px;
+	 border-radius: 5px;
+	 background-color: #733B27;
+	 color:white;
+}
+
+.boton2:hover{
+	background-color: #F2B366;
+}
+
+
+.boton3{
+	 padding: 10px 15px;
+	 border-radius: 5px;
+	 background-color: #038C33;
+	 color:white;
+}
+
+.boton3:hover{
+	background-color: #EFF299;
+}
